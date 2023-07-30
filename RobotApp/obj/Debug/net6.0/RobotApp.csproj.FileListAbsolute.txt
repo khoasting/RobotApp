@@ -1,0 +1,15 @@
+E:\Workspace\RobotApp\RobotApp\bin\Debug\net6.0\RobotApp.exe
+E:\Workspace\RobotApp\RobotApp\bin\Debug\net6.0\RobotApp.deps.json
+E:\Workspace\RobotApp\RobotApp\bin\Debug\net6.0\RobotApp.runtimeconfig.json
+E:\Workspace\RobotApp\RobotApp\bin\Debug\net6.0\RobotApp.dll
+E:\Workspace\RobotApp\RobotApp\bin\Debug\net6.0\RobotApp.pdb
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.csproj.AssemblyReference.cache
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.AssemblyInfoInputs.cache
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.AssemblyInfo.cs
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.csproj.CoreCompileInputs.cache
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.dll
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\refint\RobotApp.dll
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.pdb
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\RobotApp.genruntimeconfig.cache
+E:\Workspace\RobotApp\RobotApp\obj\Debug\net6.0\ref\RobotApp.dll

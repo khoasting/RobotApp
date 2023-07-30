@@ -1,0 +1,72 @@
+Placing 6,0 West
+Report
+Result: Nothing happen the placing invalid
+P|6|0|W
+O
+
+Placing 0,6 West
+Report
+Result: Nothing happen the placing invalid
+P|0|6|W
+O
+
+Placing -1,5 West
+Report
+Result: Nothing happen the placing invalid
+P|-1|5|W
+O
+
+Placing 5,-1 West
+Report
+Result: Nothing happen the placing invalid
+P|5|-1|W
+O
+
+Placing 1,1 West
+Move 2 times
+Report
+Result: Print out 0,1 West
+P|1|1|W
+M
+M
+O
+
+Placing 0,0 East
+Move 2 times
+Report
+Result: Print out 5,0 East
+P|0|0|E
+M
+M
+M
+M
+M
+M
+O
+
+Placing 0,0 East
+Move 2 times
+Left 2 times
+Report
+Result: Print out 2,0 West
+P|0|0|E
+M
+M
+L
+L
+O
+
+Placing 0,0 North
+Move 3 times
+Left 2 times
+Right 1 times
+Report
+Result: Print out 0,3 West
+P|0|0|N
+M
+M
+M
+L
+L
+R
+O
